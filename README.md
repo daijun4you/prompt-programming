@@ -22,7 +22,13 @@ Prompt编程 是指利用结构化的数据格式（如json）来定义Prompt，
 <img src='https://github.com/daijun4you/prompt-programming/assets/6802327/2a64a0f5-85de-4867-939a-1d839ce0a3e8' width='60%' height='60%'/>
 
 ## Prompt编程 的原理
-Prompt编程主要用到了json的格式来定义Prompt，看一下思维导图：
+Prompt编程主要用到了json的格式来定义Prompt，看一下json数据格式的思维导图：
+<img src='https://github.com/daijun4you/prompt-programming/assets/6802327/89d769c4-ee78-43aa-ac49-77d3c083ce37' width='60%' height='60%'/>
+<br/>**AI应用**，用于定义你的应用，其中又细分为三个模块：简介、用户、系统。
+  <br/>**简介**，主要用于介绍你的AI应用。
+  <br/>**用户**，主要用于定义需要用户输入的**必填信息**以及**选填信息**
+  <br/>**系统**，主要用于定义**指令**以及**规则**（其中规则是系统最最核心的运行逻辑）
+<br/>运行AI应用，用于运行你的 AI应用
 
 
 
