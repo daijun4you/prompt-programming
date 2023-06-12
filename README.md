@@ -4,9 +4,10 @@ Prompt编程 是指利用结构化的数据格式（如json）来定义Prompt，
 <br><br>
 
 ## Prompt编程 示例
-* **育儿师**（parenting.json），咨询0-18岁育儿问题 <br>
-* **减脂营养师**（reducing.json），咨询减脂计划、餐谱等 <br>
-* **猜字游戏**（guessing_game.json），系统随机0-99的数字，用户猜 <br>
+* **育儿师** (parenting.json)，咨询0-18岁育儿问题 <br>
+* **减脂营养师** (reducing.json)，咨询减脂计划、餐谱等 <br>
+* **猜字游戏** (guessing_game.json)，系统随机0-99的数字，用户猜 <br>
+* **恋人** (lover.json)，带口音的AI恋人，如果你敢选择河南话，不信笑不毁你 <br>
 
 <br>
 
