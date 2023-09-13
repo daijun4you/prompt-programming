@@ -8,7 +8,9 @@ Prompt编程 是指利用结构化的数据格式（如json）来定义Prompt，
 * **减脂营养师** (reducing.json)，咨询减脂计划、餐谱等 <br>
 * **猜字游戏** (guessing_game.json)，系统随机0-99的数字，用户猜 <br>
 * **恋人** (lover.json)，带口音的AI恋人，如果你敢选择河南话，不信笑不毁你 <br>
-* **成语接龙** (idiom_chain_game.json)，成语接龙游戏
+* **成语接龙** (idiom_jielong.json)，成语接龙游戏，三局两胜
+* **21点游戏** (21_game.json)，21点游戏
+* **石头剪刀布** (stone_scissor_cloth.json)，石头剪刀布，三局两胜
 
 <br>
 
